@@ -1,1 +1,2 @@
-In this repository I am going to upload all my java programs which i am going to learn.
+Hello Everyone! 
+In this repository I'm going to upload all java programs which i'm going to learn.
